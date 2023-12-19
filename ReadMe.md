@@ -1,5 +1,16 @@
-# 💫 About Me:
-Olá! Eu sou Antonio Erick, um estudante dedicado e entusiasmado em busca de conhecimento. Atualmente, estou cursando TI na Universidade Federal Rural do Semi-Árido e estou extremamente empolgado com as oportunidades e desafios que essa área oferece. Ao longo dos meus estudos, tenho me aprofundado em disciplinas como Cálculo 1 e Algoritmos e tenho adquirido habilidades práticas que me permitem aplicar o conhecimento teórico de forma eficaz. Estou constantemente buscando maneiras de expandir meu conhecimento e me manter atualizado sobre as tendências e avanços do setor. Estou ansioso para aplicar tudo o que aprendi e contribuir de forma significativa para o campo profissional que escolhi.
+### <h4> *Hello guys, i'm  Antonio Erick, i'm 20 years old and i'm student of ufersa.*
+ <h4>
+
+<div align="center">
+
+  ![bc6c171eee288a2f1e124c749303b24e](https://github.com/AntonioErick/AntonioErick/assets/147534096/42cca78a-6103-4162-9b1e-eca907e83cdd)
+
+   
+</div>
+
+
+
+<div align="center">
 
 
 # 💻 Tech Stack:
