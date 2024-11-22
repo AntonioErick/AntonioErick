@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Erick!</h2>
 
 <div style="display: flex; align-items: center;">
-  <img align="right" height="150" src="https://cache.teia.rocks/ipfs/QmcBNRVuxqM1L7UmyG4eQDP2i8EMNHWd7RgTLzX96X84WW" alt="New profile gif" style="margin-right: 20px;" />
+  <img align="right" height="140" src="https://cache.teia.rocks/ipfs/QmcBNRVuxqM1L7UmyG4eQDP2i8EMNHWd7RgTLzX96X84WW" alt="New profile gif" style="margin-right: 20px;" />
   
   <div>
     - ⚡ I am 21 years old, currently living in Brazil. I'm looking to improve my English and computer skills. I am pursuing a degree in Information Technology.
@@ -61,3 +61,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AntonioErick/AntonioErick/output/snake.svg" alt="Snake animation" />
+
