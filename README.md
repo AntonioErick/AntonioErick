@@ -61,4 +61,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AntonioErick/AntonioErick/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AntonioErick/AntonioErick/output/snake.svg" alt="Snake animation" width="100%"/>
+
+
+<div align="center">  
+  <img src="https://external-preview.redd.it/-JL_9hSeDYderzR6MFTwAPJzsJ2QLcKUxdAsXFG5y3k.png?width=1080&crop=smart&auto=webp&s=3a4fd9a4f303da5bb80583b40265c98e10b0cb15" alt="Final gif" width="100%" />  
+</div>  
