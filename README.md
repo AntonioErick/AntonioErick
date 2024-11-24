@@ -30,7 +30,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioErick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="Stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioErick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioErick&langs_count=5&theme=radical&hide=css,html&layout=compact&hide_border=false" height="150" alt="Languages graph" />
 </div>
 
 ###
