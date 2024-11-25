@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AntonioErick&theme=radical&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=false&order=4" alt="Trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AntonioErick&theme=monokai&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=false&order=4" alt="Trophy graph" />
 </div>
 
 ###
