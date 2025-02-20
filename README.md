@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Erick!</h2>
 
 <div style="display: flex; align-items: center;">
-  <img align="right" height="135" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82270e70-01a6-4570-8622-80a356bb7daa/dg9sh2k-c717f6a8-1b2e-4472-877b-17fc9f0240e3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgyMjcwZTcwLTAxYTYtNDU3MC04NjIyLTgwYTM1NmJiN2RhYVwvZGc5c2gyay1jNzE3ZjZhOC0xYjJlLTQ0NzItODc3Yi0xN2ZjOWYwMjQwZTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WRB5hfnaZP4ghF2dEBFlJr_fy4OMayEYXrHE0chj9Mk" alt="New profile gif" style="margin-right: 20px;" />
+  <img align="right" height="135" src="https://steamuserimages-a.akamaihd.net/ugc/925923059834352592/146D54D38D3E9D379C5AD9DAF29D9F6045D210E7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="New profile gif" style="margin-right: 20px;" />
 </div>
   
   <div>
