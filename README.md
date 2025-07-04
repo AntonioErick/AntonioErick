@@ -1,77 +1,73 @@
-<h2 align="left">Hi 👋! My name is Erick!</h2>
+<h2 align="left">Hi 👋! I'm Erick!</h2>
 
-<div style="display: flex; align-items: center;">
-  <img align="right" height="135" src="https://steamuserimages-a.akamaihd.net/ugc/925923059834352592/146D54D38D3E9D379C5AD9DAF29D9F6045D210E7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="New profile gif" style="margin-right: 20px;" />
-</div>
-  
-  <div>
-    - 💭 I am 21 years old, currently living in Brazil. I'm looking to improve my English and computer skills.<br />
-    - 👨‍🎓 I am pursuing a degree in Information Technology.<br />
-    - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games!<br />
-    - 🚀 I believe that personal interests contribute to a refined perception of things and enhance problem-solving skills.
-  </div>
-</div>
+<p align="left">
+  💭 I'm 21 years old from Brazil, looking to improve my English and programming skills.<br>
+  👨‍🎓 Currently pursuing a degree in Information Technology.<br>
+  ⚡ Passionate about reading books, manga, comics, watching movies, and gaming.<br>
+  🚀 I believe hobbies shape creativity and enhance problem-solving!
+</p>
 
-###
+---
 
-## 👨‍💻 More about me 
-<div align="left">
+## 📬 Connect with me
+
+<p align="left">
   <a href="https://www.instagram.com/anttonioerick/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:eriick2kk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioErick&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioErick&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&cache_seconds=60" height="150" alt="languages graph" />
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioErick&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioErick&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AntonioErick&theme=monokai&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=false&order=4" alt="Trophy graph" />
-</div>
+## 🏆 GitHub Achievements
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AntonioErick&theme=monokai&no-bg=true&margin-w=10&margin-h=10" />
+</p>
 
-## 🔥 Skills 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS logo" />
-</div>
+---
 
-###
+## 🔧 Skills
 
-## 🛠️ Tools & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tools & IDEs
 
-<img src="https://raw.githubusercontent.com/AntonioErick/AntonioErick/output/snake.svg" alt="Snake animation" width="100%"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" title="Eclipse"/>
+</p>
 
+---
 
-<div align="center">  
-  <img src="https://external-preview.redd.it/-JL_9hSeDYderzR6MFTwAPJzsJ2QLcKUxdAsXFG5y3k.png?width=1080&crop=smart&auto=webp&s=3a4fd9a4f303da5bb80583b40265c98e10b0cb15" alt="Final gif" width="100%" />  
-</div>  
+<!-- Snake animation (optional, you can remove this section or re-enable it later) -->
+<!--
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AntonioErick/AntonioErick/output/snake.svg" alt="Snake animation" width="100%" />
+</p>
+-->
+
